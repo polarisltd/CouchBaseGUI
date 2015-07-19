@@ -1,0 +1,10 @@
+{
+  "type": "work",
+  "work": "lisaUpload",
+  "workflowInstance": "w1",
+  "outputDocument": "DEV",
+  "checksuming": "no",
+  "ficaUpdateFlag": "no",
+  "sqlAG5WhereAppend": "  (cash_desk_no\u003d\u0027G56\u0027 and t.hagr_id\u003d\u0027165340\u0027 or cash_desk_no\u003d\u0027G56\u0027  and t.hagr_id\u003d\u0027165161\u0027 or cash_desk_no\u003d\u0027G03\u0027  and t.hagr_id\u003d\u0027164480\u0027 or cash_desk_no\u003d\u0027G56\u0027  and t.hagr_id\u003d\u0027165960\u0027 or cash_desk_no\u003d\u0027G56\u0027  and t.hagr_id\u003d\u0027167161\u0027 ) ",
+  "sqlAG6WhereAppend": " (cash_desk_no\u003d\u0027G56\u0027 and t.hagr_id\u003d\u0027165360\u0027 or  cash_desk_no\u003d\u0027G56\u0027  and t.hagr_id\u003d\u0027165162\u0027 or cash_desk_no\u003d\u0027G03\u0027 and t.hagr_id\u003d\u0027164481\u0027 or cash_desk_no\u003d\u0027G03\u0027 and t.hagr_id\u003d\u0027165240\u0027 or cash_desk_no\u003d\u0027G56\u0027 and t.hagr_id\u003d\u0027167162\u0027) "
+}

@@ -1,0 +1,21 @@
+{
+  "dossiers": {
+    "0413166129": "277520"
+  },
+  "dateCreated": "2014-12-29T09:23:50",
+  "type": "aggregatesUploadHistory",
+  "hagr_id": {
+    "277100": {
+      "QTY_ROWS": "66967",
+      "QTY": "3750",
+      "TOTAL_PRICE": "-2945525.06",
+      "AMOUNT": "0.0"
+    },
+    "277520": {
+      "QTY_ROWS": "151539",
+      "QTY": "11833",
+      "TOTAL_PRICE": "4689367.17",
+      "AMOUNT": "0.0"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dateCreated": "2015-01-05T17:26:35",
+  "nextZones": [
+    {
+      "zoneCode": 6221,
+      "zoneLabel": "UCCLE-IXELLES-LINK."
+    },
+    {
+      "zoneCode": 6222,
+      "zoneLabel": "RHODE-ST-GENESE"
+    },
+    {
+      "zoneCode": 6261,
+      "zoneLabel": "BEERSEL"
+    }
+  ],
+  "stopLabel": "ALSEMBERG Rondenbos",
+  "stopCode": 50,
+  "doctype": "nextzones"
+}

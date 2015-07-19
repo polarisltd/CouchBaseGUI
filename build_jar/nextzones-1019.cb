@@ -1,0 +1,28 @@
+{
+  "dateCreated": "2015-01-05T17:26:35",
+  "nextZones": [
+    {
+      "zoneCode": 6251,
+      "zoneLabel": "DION-VALMONT"
+    },
+    {
+      "zoneCode": 6352,
+      "zoneLabel": "BONLEZ"
+    },
+    {
+      "zoneCode": 6353,
+      "zoneLabel": "CHAUMONT-GISTOUX"
+    },
+    {
+      "zoneCode": 6458,
+      "zoneLabel": "INCOURT-LONGUEVILLE"
+    },
+    {
+      "zoneCode": 6462,
+      "zoneLabel": "MORSAINT"
+    }
+  ],
+  "stopLabel": "GISTOUX Sentier du Berger",
+  "stopCode": 1019,
+  "doctype": "nextzones"
+}

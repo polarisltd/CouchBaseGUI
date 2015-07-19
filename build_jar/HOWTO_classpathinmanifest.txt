@@ -1,0 +1,5 @@
+Eclipse > File > Export > Java > Runnable JAR File > "Copy required libraries into a sub-folder next to the generated JAR".
+
+It will create a MANIFEST.MF with all the classpath entries of your Java project. You need to have a working launch configuration.
+
+Do not use "Package required libraries", as it will create a nasty Jar-In-Jar-ResourceLoader class into your jar file. You usually don't want such things in there.

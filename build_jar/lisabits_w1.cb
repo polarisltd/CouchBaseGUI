@@ -1,0 +1,8 @@
+{
+  "type": "work",
+  "work": "lisaBits",
+  "workflowInstance": "w1",
+  "input": "TEST01",
+  "checksuming": "no",
+  "duplicateExecCheck": "no"
+}

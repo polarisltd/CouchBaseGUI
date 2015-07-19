@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jar" name="Create Runnable Jar for Project YPTOCouchbaseGui with libraries in sub-folder">
+    <!--this file was created by Eclipse Runnable JAR Export Wizard-->
+    <!--ANT 1.7 is required                                        -->
+    <target name="create_run_jar">
+        <jar destfile="G:/java/eclipsews/YPTOCouchbaseGui/build_jar/cbgui.jar">
+            <manifest>
+                <attribute name="Main-Class" value="CBDocUtilGui"/>
+                <attribute name="Class-Path" value=". cbgui_lib/commons-codec-1.9.jar cbgui_lib/couchbase-client-1.4.4.jar cbgui_lib/groovy-all-2.2.1.jar cbgui_lib/gson-2.2.4.jar cbgui_lib/httpcore-4.3.jar cbgui_lib/jettison-1.1.jar cbgui_lib/netty-3.2.3.jar cbgui_lib/spymemcached-2.11.4.jar cbgui_lib/httpcore-nio-4.3.jar"/>
+            </manifest>
+            <fileset dir="G:\java\eclipsews\YPTOCouchbaseGui\bin"/>
+        </jar>
+        <delete dir="G:\java\eclipsews\YPTOCouchbaseGui\build_jar/cbgui_lib"/>
+        <mkdir dir="G:\java\eclipsews\YPTOCouchbaseGui\build_jar/cbgui_lib"/>
+        <copy file="G:/java/eclipsews/YPTOCouchbaseGui/lib/commons-codec-1.9.jar" todir="G:/java/eclipsews/YPTOCouchbaseGui/build_jar/cbgui_lib"/>
+        <copy file="G:/java/eclipsews/YPTOCouchbaseGui/lib/couchbase-client-1.4.4.jar" todir="G:/java/eclipsews/YPTOCouchbaseGui/build_jar/cbgui_lib"/>
+        <copy file="G:/java/eclipsews/YPTOCouchbaseGui/lib/groovy-all-2.2.1.jar" todir="G:/java/eclipsews/YPTOCouchbaseGui/build_jar/cbgui_lib"/>
+        <copy file="G:/java/eclipsews/YPTOCouchbaseGui/lib/gson-2.2.4.jar" todir="G:/java/eclipsews/YPTOCouchbaseGui/build_jar/cbgui_lib"/>
+        <copy file="G:/java/eclipsews/YPTOCouchbaseGui/lib/httpcore-4.3.jar" todir="G:/java/eclipsews/YPTOCouchbaseGui/build_jar/cbgui_lib"/>
+        <copy file="G:/java/eclipsews/YPTOCouchbaseGui/lib/jettison-1.1.jar" todir="G:/java/eclipsews/YPTOCouchbaseGui/build_jar/cbgui_lib"/>
+        <copy file="G:/java/eclipsews/YPTOCouchbaseGui/lib/netty-3.2.3.jar" todir="G:/java/eclipsews/YPTOCouchbaseGui/build_jar/cbgui_lib"/>
+        <copy file="G:/java/eclipsews/YPTOCouchbaseGui/lib/spymemcached-2.11.4.jar" todir="G:/java/eclipsews/YPTOCouchbaseGui/build_jar/cbgui_lib"/>
+        <copy file="G:/java/eclipsews/YPTOCouchbaseGui/lib/httpcore-nio-4.3.jar" todir="G:/java/eclipsews/YPTOCouchbaseGui/build_jar/cbgui_lib"/>
+    </target>
+</project>

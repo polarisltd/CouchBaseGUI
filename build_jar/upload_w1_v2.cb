@@ -1,0 +1,9 @@
+{
+  "type": "work",
+  "work": "lisaUpload",
+  "workflowInstance": "w1000",
+  "outputDocument": "DEV",
+  "checksuming": "no",
+  "ficaUpdateFlag": "no",
+  "filterSalesDate": "2014-10-23"
+}
