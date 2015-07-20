@@ -2,14 +2,14 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="G:/java/eclipsews/YPTOCouchbaseGui/lib/commons-codec-1.9.jar"/>
-	<classpathentry kind="lib" path="G:/java/eclipsews/YPTOCouchbaseGui/lib/couchbase-client-1.4.4.jar"/>
-	<classpathentry kind="lib" path="G:/java/eclipsews/YPTOCouchbaseGui/lib/groovy-all-2.2.1.jar"/>
-	<classpathentry kind="lib" path="G:/java/eclipsews/YPTOCouchbaseGui/lib/gson-2.2.4.jar"/>
-	<classpathentry kind="lib" path="G:/java/eclipsews/YPTOCouchbaseGui/lib/httpcore-4.3.jar"/>
-	<classpathentry kind="lib" path="G:/java/eclipsews/YPTOCouchbaseGui/lib/jettison-1.1.jar"/>
-	<classpathentry kind="lib" path="G:/java/eclipsews/YPTOCouchbaseGui/lib/netty-3.2.3.jar"/>
-	<classpathentry kind="lib" path="G:/java/eclipsews/YPTOCouchbaseGui/lib/spymemcached-2.11.4.jar"/>
-	<classpathentry kind="lib" path="G:/java/eclipsews/YPTOCouchbaseGui/lib/httpcore-nio-4.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/couchbase-client-1.4.4.jar"/>
+	<classpathentry kind="lib" path="lib/groovy-all-2.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-nio-4.3.jar"/>
+	<classpathentry kind="lib" path="lib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/netty-3.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/spymemcached-2.11.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
